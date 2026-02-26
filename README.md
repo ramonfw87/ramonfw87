@@ -1,7 +1,7 @@
-## Hi, my name is Ramon 👋
+## Hi, my name is Ramon 👋 <br><br>
 
-🌱 I’m currently learning to code 😄
-🔭 Interests: computers, music, education, rock climbing
+🌱 I’m currently learning to code 😄 <br>
+🔭 Interests: computers, music, education, rock climbing <br>
 📫 You can reach me under @ramonfw on IG
 <!--
 **ramonfw-br/ramonfw-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
